@@ -1,6 +1,6 @@
 # 使用說明
 
-➜  myFirstWebpack git:(master) npm start
+➜ npm start
 
 > webpackProject@1.0.0 start
 > webpack-dev-server
