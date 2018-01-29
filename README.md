@@ -1,13 +1,12 @@
 # 使用說明
-
+```bash
 ➜ npm start
 
 > webpackProject@1.0.0 start
 > webpack-dev-server
 
 Project is running at http://localhost:8080/
-
-
+```
 ***
 # webpack.config.js
 ``` js 
